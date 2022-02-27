@@ -14,6 +14,9 @@ function App() {
         crossorigin="anonymous"
       ></link>
       <Weather />
+      <h1>
+        why
+      </h1>
     </div>
   );
 }
