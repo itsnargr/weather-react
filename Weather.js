@@ -9,7 +9,7 @@ export default function Weather() {
     status: "windy",
     time: "tuesday",
     humidity: "70",
-    wind: "55 km/h"
+    wind: "55 km/h",
   };
   return (
     <div className="body">
@@ -47,4 +47,3 @@ export default function Weather() {
     </div>
   );
 }
-

@@ -1,5 +1,5 @@
 import React from "react";
-import Weather from "./Weather.js";
+import Weather from "./Weather";
 
 import "./styles.css";
 
@@ -14,9 +14,7 @@ function App() {
         crossorigin="anonymous"
       ></link>
       <Weather />
-      <h1>
-        why
-      </h1>
+      <h1>why</h1>
     </div>
   );
 }
